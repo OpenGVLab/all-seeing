@@ -1,4 +1,4 @@
-# All-Seeing Project <img width="60" alt="image" src="https://github.com/Weiyun1025/all-seeing/assets/8529570/926c1393-ee84-41af-a329-7c2ecd236e18"> [[Paper](TODO)]
+# All-Seeing Project <img width="60" alt="image" src="https://github.com/OpenGVLab/all-seeing/assets/79644233/8566de87-9e7d-4f0c-8847-6f51c45428ff"> [[Paper](TODO)]
 
 This is the official implementation of the paper "The All-Seeing Project: Towards Panoptic Visual Recognition and Understanding of the Open World". (The name "All-Seeing" is derived from "The All-Seeing Eye", which means having complete knowledge, awareness, or insight into all aspects of existence. The logo is Millennium Puzzle, an artifact from the manga "Yu-Gi-Oh!")
 
@@ -9,7 +9,7 @@ We present the All-Seeing Project with:
 
 ***All-Seeing Model (ASM)***: we develop a unified vision-language foundation model (ASM) for open-world panoptic visual recognition and understanding. Aligning with LLMs, our ASM supports versatile image-text retrieval and generation tasks, demonstrating impressive zero-shot capability.
 
-<img width="820" alt="image" src="https://github.com/Weiyun1025/all-seeing/assets/79644233/e8876a63-6118-4319-abb7-409f025770f9">
+<img width="820" alt="image" src="https://github.com/OpenGVLab/all-seeing/assets/79644233/70d11427-6c75-4fb1-828b-28584c6c1e55">
 
 Figure 1: Overview and comparison of our All-Seeing project with other popular large foundation models.
 
@@ -27,16 +27,17 @@ Figure 1: Overview and comparison of our All-Seeing project with other popular l
 
 ## Dataset Overview
 AS-1B with over 1 billion regions annotated with semantic tags, question-answering pairs, and detailed captions. It covers a wide range of 3.5 million common and rare concepts in the real world, and has 132.2 billion tokens that describe the concepts and their attributes.
-<img width="800" alt="image" src="https://github.com/Weiyun1025/all-seeing/assets/8529570/88e89d79-8a46-4f42-af9e-1e8c23f0ba86">
+
+<img width="800" alt="image" src="https://github.com/OpenGVLab/all-seeing/assets/79644233/348ae21d-bfb2-4ce9-8d62-2d25719fb10f">
 
 Some examples
 
-<img width="800" alt="image" src="https://github.com/Weiyun1025/all-seeing/assets/79644233/c0235f79-fbec-4cc1-b30d-d43f81ad1876">
+<img width="800" alt="image" src="https://github.com/OpenGVLab/all-seeing/assets/79644233/a33cd418-0769-499b-abf1-3d30aae2e83e">
 
 ## Model Architecture
 
 The All-Seeing model (ASM) is a unified framework for panoptic visual recognition and understanding, including image/region-text retrieval, image/region recognition, captioning, and question-answering.
-<img width="820" alt="image" src="https://github.com/Weiyun1025/all-seeing/assets/79644233/fb48668e-279c-484c-b22c-203102e26d4a">
+<img width="820" alt="image" src="https://github.com/OpenGVLab/all-seeing/assets/79644233/336be70a-ea3b-48f7-9733-af85ffe4cd87">
 
 ## License
 
