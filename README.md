@@ -1,4 +1,4 @@
-# All-Seeing Project <img width="60" alt="image" src="https://github.com/OpenGVLab/all-seeing/assets/8529570/54c8d328-aa67-4d28-99de-90d019e8e7d0"> [[Paper](./all-seeing.pdf)][[AS-1B Dataset Browser](https://huggingface.co/spaces/OpenGVLab/all-seeing)]
+# The All-Seeing Project <img width="60" alt="image" src="https://github.com/OpenGVLab/all-seeing/assets/8529570/54c8d328-aa67-4d28-99de-90d019e8e7d0"> [[Paper](./all-seeing.pdf)][[AS-1B Dataset Browser](https://huggingface.co/spaces/OpenGVLab/all-seeing)]
 
 This is the official implementation of the paper "The All-Seeing Project: Towards Panoptic Visual Recognition and Understanding of the Open World". (The name "All-Seeing" is derived from "The All-Seeing Eye", which means having complete knowledge, awareness, or insight into all aspects of existence. The logo is Millennium Puzzle, an artifact from the manga "Yu-Gi-Oh!")
 
