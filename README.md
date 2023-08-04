@@ -2,6 +2,13 @@
 
 This is the official implementation of the paper "The All-Seeing Project: Towards Panoptic Visual Recognition and Understanding of the Open World". (The name "All-Seeing" is derived from "The All-Seeing Eye", which means having complete knowledge, awareness, or insight into all aspects of existence. The logo is Millennium Puzzle, an artifact from the manga "Yu-Gi-Oh!")
 
+## Schedule
+- [ ] Release the ASM model.
+- [ ] Release the human verification results of AS-1B.
+- [ ] Release the detailed region annotations of AS-1B.
+- [ ] Release the semantic tags of AS-1B.
+- [ ] Online demo, including dataset browser and ASM online demo.
+
 ## Introduction 
 We present the All-Seeing Project with:
 
@@ -13,13 +20,6 @@ We present the All-Seeing Project with:
 
 
 Figure 1: Overview and comparison of our All-Seeing project with other popular large foundation models.
-
-## Schedule
-- [ ] Release the ASM model.
-- [ ] Release the human verification results of AS-1B.
-- [ ] Release the detailed region annotations of AS-1B.
-- [ ] Release the semantic tags of AS-1B.
-- [ ] Online demo, including dataset browser and ASM online demo.
 
 ## Online Demo
 [**TODO**] The ASM model will be integrated into [InternGPT](https://github.com/OpenGVLab/InternGPT).
