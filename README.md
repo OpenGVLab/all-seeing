@@ -1,3 +1,5 @@
+
+https://github.com/OpenGVLab/all-seeing/assets/47669167/55cd59b4-c6b8-4803-ae39-c32e790bc621
 # The All-Seeing Project <img width="60" alt="image" src="./assets/logo.png"> [[Paper](https://arxiv.org/abs/2308.01907)][[All-Seeing Model Demo](https://openxlab.org.cn/apps/detail/wangweiyun/All-Seeing-Model-Demo)][[AS-1B Dataset Browser](https://openxlab.org.cn/apps/detail/wangweiyun/All-Seeing-Dataset-Browser)]
 
 This is the official implementation of the paper "The All-Seeing Project: Towards Panoptic Visual Recognition and Understanding of the Open World". (The name "All-Seeing" is derived from "The All-Seeing Eye", which means having complete knowledge, awareness, or insight into all aspects of existence. The logo is Millennium Puzzle, an artifact from the manga "Yu-Gi-Oh!")
@@ -29,7 +31,11 @@ Figure 1: Overview and comparison of our All-Seeing project with other popular l
 
 **Dataset Browser** is available [here](https://openxlab.org.cn/apps/detail/wangweiyun/All-Seeing-Dataset-Browser).
 
-<video id="video" controls="" preload="none" poster=""><source id="mp4" src="./assets/All-Seeing-Model-Demo.mp4" type="video/mp4"></videos>
+
+
+https://github.com/OpenGVLab/all-seeing/assets/47669167/9b5b32d1-863a-4579-b576-b82523f2205e
+
+
 
 ## Dataset Overview
 AS-1B with over 1 billion regions annotated with semantic tags, question-answering pairs, and detailed captions. It covers a wide range of 3.5 million common and rare concepts in the real world, and has 132.2 billion tokens that describe the concepts and their attributes.
