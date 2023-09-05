@@ -57,14 +57,15 @@ The All-Seeing model (ASM) is a unified framework for panoptic visual recognitio
 This project is released under the [Apache 2.0 license](LICENSE). 
 
 
-<!-- ## 🖊️ Citation
+## 🖊️ Citation
 
 If you find this project useful in your research, please consider cite:
 
 ```BibTeX
-@misc{2023allseeing,
-    title={The All-Seeing Project: Towards Panoptic Visual Recognition and Understanding of the Open World},
-    author={Min Shi and Weiyun Wang and Qingyun Li and Wenhai Wang and Zhenhang Huang and Linjie Xing and Zhe Chen and Hao Li and Xizhou Zhu and Zhiguo Cao and Yushi Chen and Jifeng Dai and Yu Qiao},
-    year={2023}
+@article{wang2023all,
+  title={The All-Seeing Project: Towards Panoptic Visual Recognition and Understanding of the Open World},
+  author={Wang, Weiyun and Shi, Min and Li, Qingyun and Wang, Wenhai and Huang, Zhenhang and Xing, Linjie and Chen, Zhe and Li, Hao and Zhu, Xizhou and Cao, Zhiguo and others},
+  journal={arXiv preprint arXiv:2308.01907},
+  year={2023}
 }
-``` -->
+```
