@@ -1,0 +1,23 @@
+person: [0, 143, 257, 999]
+A <ref>man</ref><box>[[0, 143, 257, 999]]</box> wearing a red shirt with the LEGEA logo <pred>stands on</pred><box>[[0, 143, 257, 999]]</box><box>[[0, 412, 999, 999]]</box> the <ref>playingfield</ref><box>[[0, 412, 999, 999]]</box>.
+
+person: [449, 112, 710, 988]
+A <ref>man</ref><box>[[449, 112, 710, 988]]</box> wearing a dark shirt and a dark hat <pred>stands</pred><box>[[449, 112, 710, 988]]</box><box>[[0, 412, 999, 999]]</box> on the <ref>playingfield</ref><box>[[0, 412, 999, 999]]</box>.
+
+person: [235, 131, 476, 982]
+A <ref>man</ref><box>[[235, 131, 476, 982]]</box> wearing a dark shirt <pred>stands</pred><box>[[235, 131, 476, 982]]</box><box>[[0, 412, 999, 999]]</box> on the <ref>playingfield</ref><box>[[0, 412, 999, 999]]</box>.
+
+person: [685, 93, 972, 999]
+A <ref>man</ref><box>[[685, 93, 972, 999]]</box> wearing a blue shirt with the Nike logo <pred>stands on</pred><box>[[685, 93, 972, 999]]</box><box>[[0, 412, 999, 999]]</box> the <ref>playingfield</ref><box>[[0, 412, 999, 999]]</box>.
+
+sports ball: [602, 605, 627, 651]
+A <ref>sports ball</ref><box>[[602, 605, 627, 651]]</box> <pred>held by</pred><box>[[602, 605, 627, 651]]</box><box>[[449, 112, 710, 988]]</box> a <ref>man</ref><box>[[449, 112, 710, 988]]</box> wearing a dark shirt and hat.
+
+tennis racket: [524, 609, 741, 786]
+An orange <ref>tennis racket</ref><box>[[524, 609, 741, 786]]</box> <pred>held by</pred><box>[[524, 609, 741, 786]]</box><box>[[449, 112, 710, 988]]</box> a <ref>man</ref><box>[[449, 112, 710, 988]]</box> wearing a dark shirt and hat.
+
+tennis racket: [268, 457, 463, 676]
+A <ref>tennis racket</ref><box>[[268, 457, 463, 676]]</box> <pred>held by</pred><box>[[268, 457, 463, 676]]</box><box>[[235, 131, 476, 982]]</box> a <ref>man</ref><box>[[235, 131, 476, 982]]</box> wearing a black shirt.
+
+tennis racket: [763, 649, 988, 842]
+A <ref>tennis racket</ref><box>[[763, 649, 988, 842]]</box> <pred>held by</pred><box>[[763, 649, 988, 842]]</box><box>[[685, 93, 972, 999]]</box> a <ref>man</ref><box>[[685, 93, 972, 999]]</box> wearing a blue shirt.

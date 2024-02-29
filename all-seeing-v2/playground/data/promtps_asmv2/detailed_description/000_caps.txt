@@ -1,0 +1,20 @@
+A pretty young lady holding a dark colored umbrella.
+A girl in a Pikachu suit standing beside a girl holding an umbrella.
+A woman is wearing a raincoat and another woman is holding an umbrella over her head.
+two girls stand in a yard, one holds an umbrella and the other is dressed as pikachu
+Two women who are standing in the grass.
+
+person: [101, 252, 430, 963]
+person: [539, 246, 826, 984]
+umbrella: [326, 117, 976, 435]
+tree: [0, 0, 999, 204]
+fence: [0, 174, 999, 504]
+sky: [447, 0, 999, 84]
+grass: [0, 444, 999, 999]
+
+(person, [101, 252, 430, 963], person, [539, 246, 826, 984], beside)
+(person, [101, 252, 430, 963], grass, [0, 444, 999, 999], standing on)
+(person, [539, 246, 826, 984], umbrella, [326, 117, 976, 435], holding)
+(person, [539, 246, 826, 984], grass, [0, 444, 999, 999], standing on)
+(fence, [0, 174, 999, 504], tree, [0, 0, 999, 204], in front of)
+(sky, [447, 0, 999, 84], tree, [0, 0, 999, 204], over)

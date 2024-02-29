@@ -1,0 +1,19 @@
+Two cowboys on horseback are riding along a dirt road.
+Two people riding horses side by side together
+A young couple riding horses down a country path.
+Two young men are riding their horses on the road.
+A pair of young cowboys riding horses down a trail.
+
+person: [511, 347, 693, 774]
+person: [312, 347, 482, 769]
+horse: [555, 464, 658, 969]
+horse: [323, 475, 443, 960]
+tree: [0, 0, 999, 714]
+grass: [0, 426, 999, 999]
+dirt: [0, 604, 769, 999]
+
+(person, [511, 347, 693, 774], horse, [555, 464, 658, 969], riding)
+(person, [312, 347, 482, 769], horse, [323, 475, 443, 960], riding)
+(horse, [555, 464, 658, 969], horse, [323, 475, 443, 960], beside)
+(horse, [555, 464, 658, 969], dirt, [0, 604, 769, 999], walking on)
+(horse, [323, 475, 443, 960], dirt, [0, 604, 769, 999], walking on)

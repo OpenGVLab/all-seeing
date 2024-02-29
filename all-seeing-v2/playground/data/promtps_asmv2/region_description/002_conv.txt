@@ -1,0 +1,8 @@
+cat: [225, 144, 847, 732]
+A <ref>cat</ref><box>[[225, 144, 847, 732]]</box> <pred>standing next to</pred><box>[[225, 144, 847, 732]]</box><box>[[35, 168, 689, 903]]</box> a small <ref>dog</ref><box>[[35, 168, 689, 903]]</box> <pred>on</pred><box>[[225, 144, 847, 732]]</box><box>[[0, 0, 999, 999]]</box> the <ref>sidewalk</ref><box>[[0, 0, 999, 999]]</box>.
+
+dog: [35, 168, 689, 903]
+A small <ref>dog</ref><box>[[35, 168, 689, 903]]</box> on a leash <pred>standing next to</pred><box>[[35, 168, 689, 903]]</box><box>[[225, 144, 847, 732]]</box> a <ref>cat</ref><box>[[225, 144, 847, 732]]</box> <pred>on</pred><box>[[35, 168, 689, 903]]</box><box>[[0, 0, 999, 999]]</box> the <ref>pavement</ref><box>[[0, 0, 999, 999]]</box>.
+
+grass: [93, 0, 999, 573]
+<ref>Grass</ref><box>[[93, 0, 999, 573]]</box> <pred>attached to</pred><box>[[93, 0, 999, 573]]</box><box>[[0, 0, 999, 999]]</box> the <ref>pavement</ref><box>[[0, 0, 999, 999]]</box>.
