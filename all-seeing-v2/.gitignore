@@ -1,0 +1,43 @@
+# Python
+__pycache__
+*.pyc
+*.egg-info
+dist
+
+# Log
+*.log
+*.log.*
+*.json
+*.jsonl
+logs
+
+# Data
+!**/alpaca-data-conversation.json
+
+# Editor
+.idea
+*.swp
+
+# Other
+.DS_Store
+wandb
+output
+
+checkpoints
+ckpts*
+
+.ipynb_checkpoints
+*.ipynb
+
+# DevContainer
+!.devcontainer/*
+
+# Demo
+serve_images/
+
+# Scripts
+free*.py
+scripts_pjlab/deprecated/
+
+# slurm
+batchscript-*

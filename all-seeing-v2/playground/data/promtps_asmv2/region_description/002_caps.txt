@@ -1,0 +1,16 @@
+A small dog and a cat stand next to each other on a sidewalk.
+A dog standing next to a cat on a road.
+the cat and dog are hanging out together
+A small dog on a leash and cat on the sidewalk.
+two dogs one black and white and the other gray and white 
+
+cat: [225, 144, 847, 732]
+dog: [35, 168, 689, 903]
+pavement: [0, 0, 999, 999]
+grass: [93, 0, 999, 573]
+
+(cat, [225, 144, 847, 732], dog, [35, 168, 689, 903], beside)
+(cat, [225, 144, 847, 732], pavement, [0, 0, 999, 999], standing on)
+(dog, [35, 168, 689, 903], cat, [225, 144, 847, 732], beside)
+(dog, [35, 168, 689, 903], pavement, [0, 0, 999, 999], standing on)
+(grass, [93, 0, 999, 573], pavement, [0, 0, 999, 999], attached to)

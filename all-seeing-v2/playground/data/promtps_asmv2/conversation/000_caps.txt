@@ -1,0 +1,27 @@
+A man and a woman laying in front of a television.
+A couple sitting on the floor in front of their television inspecting the contents of their Wii game.
+a male and a female some tv game controllers and a television
+A couple poses with their new Wii in front of their TV.
+A guy and a girl are expressing pleasure with their new Wii system
+
+person: [1, 199, 332, 961]
+person: [568, 239, 999, 986]
+tv: [235, 45, 650, 668]
+remote: [266, 586, 319, 661]
+remote: [482, 747, 560, 774]
+remote: [585, 505, 624, 613]
+remote: [677, 626, 689, 647]
+remote: [218, 547, 273, 595]
+wall: [0, 0, 999, 666]
+rug: [0, 713, 999, 999]
+
+(person, [1, 199, 332, 961], tv, [235, 45, 650, 668], in front of)
+(person, [1, 199, 332, 961], remote, [266, 586, 319, 661], holding)
+(person, [1, 199, 332, 961], remote, [482, 747, 560, 774], beside)
+(person, [1, 199, 332, 961], remote, [218, 547, 273, 595], holding)
+(person, [1, 199, 332, 961], rug, [0, 713, 999, 999], sitting on)
+(person, [568, 239, 999, 986], remote, [585, 505, 624, 613], holding)
+(person, [568, 239, 999, 986], remote, [677, 626, 689, 647], holding)
+(person, [568, 239, 999, 986], rug, [0, 713, 999, 999], sitting on)
+(tv, [235, 45, 650, 668], wall, [0, 0, 999, 666], in front of)
+(remote, [482, 747, 560, 774], person, [1, 199, 332, 961], beside)

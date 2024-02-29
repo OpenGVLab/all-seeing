@@ -1,0 +1,17 @@
+person: [101, 252, 430, 963]
+A pretty young <ref>lady</ref><box>[[539, 246, 826, 984]]</box> <pred>holding</pred><box>[[539, 246, 826, 984]]</box><box>[[326, 117, 976, 435]]</box> a dark colored <ref>umbrella</ref><box>[[326, 117, 976, 435]]</box>.
+
+person: [539, 246, 826, 984]
+A <ref>girl</ref><box>[[101, 252, 430, 963]]</box> in a Pikachu suit standing <pred>beside</pred><box>[[101, 252, 430, 963]]</box><box>[[539, 246, 826, 984]]</box> a <ref>girl</ref><box>[[539, 246, 826, 984]]</box>.
+
+umbrella: [326, 117, 976, 435]
+A dark colored <ref>umbrella</ref><box>[[326, 117, 976, 435]]</box> <pred>held by</pred><box>[[326, 117, 976, 435]]</box><box>[[539, 246, 826, 984]]</box> a pretty young <ref>lady</ref><box>[[539, 246, 826, 984]]</box>.
+
+fence: [0, 174, 999, 504]
+The <ref>fence</ref><box>[[0, 174, 999, 504]]</box> which is <pred>in front of</pred><box>[[0, 174, 999, 504]]</box><box>[[0, 0, 999, 204]]</box> a <ref>tree</ref><box>[[0, 0, 999, 204]]</box>.
+
+tree: [0, 0, 999, 204]
+<ref>Tree</ref><box>[[0, 0, 999, 204]]</box> <pred>behind</pred><box>[[0, 0, 999, 204]]</box><box>[[0, 174, 999, 504]]</box> the <ref>fence</ref><box>[[0, 174, 999, 504]]</box>.
+
+grass: [0, 444, 999, 999]
+The <ref>grass</ref><box>[[0, 444, 999, 999]]</box> where two <ref>women</ref><box>[[101, 252, 430, 963], [539, 246, 826, 984]]</box> are <pred>standing on</pred><box>[[101, 252, 430, 963], [539, 246, 826, 984]]</box><box>[[0, 444, 999, 999]]</box>.

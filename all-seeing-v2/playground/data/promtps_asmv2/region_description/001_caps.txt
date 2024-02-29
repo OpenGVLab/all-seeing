@@ -1,0 +1,29 @@
+A group of four men standing next to each other on a tennis court.
+Four men stand near a tennis court net holding rackets.
+Four men pose with their rackets on a tennis court.
+Four men standing next to each other holding rackets.
+A group of older men standing on a tennis court
+
+person: [0, 143, 257, 999]
+person: [449, 112, 710, 988]
+person: [235, 131, 476, 982]
+person: [685, 93, 972, 999]
+sports ball: [602, 605, 627, 651]
+tennis racket: [524, 609, 741, 786]
+tennis racket: [268, 457, 463, 676]
+tennis racket: [763, 649, 988, 842]
+net: [444, 618, 839, 999]
+playingfield: [0, 412, 999, 999]
+wall-brick: [842, 147, 999, 430]
+window: [856, 185, 936, 310]
+tree: [0, 0, 402, 355]
+fence: [365, 0, 999, 374]
+
+(person, [0, 143, 257, 999], playingfield, [0, 412, 999, 999], standing on)
+(person, [449, 112, 710, 988], sports ball, [602, 605, 627, 651], holding)
+(person, [449, 112, 710, 988], tennis racket, [524, 609, 741, 786], holding)
+(person, [449, 112, 710, 988], playingfield, [0, 412, 999, 999], standing on)
+(person, [235, 131, 476, 982], tennis racket, [268, 457, 463, 676], holding)
+(person, [235, 131, 476, 982], playingfield, [0, 412, 999, 999], standing on)
+(person, [685, 93, 972, 999], tennis racket, [763, 649, 988, 842], holding)
+(person, [685, 93, 972, 999], playingfield, [0, 412, 999, 999], standing on)
