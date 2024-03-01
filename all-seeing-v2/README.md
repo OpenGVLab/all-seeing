@@ -180,6 +180,8 @@ sh scripts_asmv2/stage1-pretrain.sh
 ### Stage1-Finetuning
 We utilize the same instruction tuning data as [LLaVA 1.5](https://github.com/haotian-liu/LLaVA?tab=readme-ov-file#visual-instruction-tuning) in stage 1 while updating the format of region data into the format of ASMv2. The updated annotation is presented [here](https://huggingface.co/datasets/OpenGVLab/AS-V2/blob/main/llava_v1_5_mix665k_asmv2_format.json).
 
+You may download our finetuned checkpoint [here](https://huggingface.co/OpenGVLab/ASMv2-Stage1-Ft) and use it for the second-stage training.
+
 ```shell
 # stage2 finetune
 sh scripts_asmv2/stage1-finetune.sh
@@ -188,7 +190,7 @@ sh scripts_asmv2/stage1-finetune.sh
 ### Stage2-Pretraining
 We employ [5M filtered samples](https://storage.googleapis.com/sfr-vision-language-research/BLIP/datasets/ccs_filtered.json) from CC12M, [10M filtered samples](https://huggingface.co/datasets/OpenGVLab/AS-V2/blob/main/as_pretrain_10m.json) from AS-1B, and 15M filtered samples from [GRiT](https://huggingface.co/datasets/zzliang/GRIT) for pretraining.
 
-You may download our pretrained checkpoint [here](https://huggingface.co/OpenGVLab/ASMv2-Pretrain) and use it for the subsequent instruction tuning.
+You may download our pretrained checkpoint [here](https://huggingface.co/OpenGVLab/ASMv2-Stage2-Pretrain) and use it for the subsequent instruction tuning.
 
 ```shell
 # stage1 pretrain
