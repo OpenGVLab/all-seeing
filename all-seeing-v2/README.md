@@ -1,4 +1,4 @@
-# The All-Seeing Project V2 <img width="60" alt="image" src="https://github.com/OpenGVLab/all-seeing/assets/8529570/54c8d328-aa67-4d28-99de-90d019e8e7d0"> [[Paper]()][[Model](https://huggingface.co/OpenGVLab/ASMv2)][[Dataset](https://huggingface.co/datasets/OpenGVLab/AS-V2)]
+# The All-Seeing Project V2 <img width="60" alt="image" src="https://github.com/OpenGVLab/all-seeing/assets/8529570/54c8d328-aa67-4d28-99de-90d019e8e7d0"> [[Paper](https://arxiv.org/abs/2402.19474)][[Model](https://huggingface.co/OpenGVLab/ASMv2)][[Dataset](https://huggingface.co/datasets/OpenGVLab/AS-V2)]
 
 ## Introduction 
 We present the All-Seeing Project V2 with:
@@ -43,7 +43,7 @@ Some examples about the data formulation are shown below.
 <img width="800" alt="image" src="assets/rec_formulation.jpg">
 <!-- <img width="800" alt="image" src="assets/rec_formulation_complex.jpg"> -->
 
-Please refer to [our paper]() and [this script](scripts_asmv2/visualize_rec.py) for more details about the parsing of relation conversation.
+Please refer to [our paper](https://arxiv.org/abs/2402.19474) and [this script](scripts_asmv2/visualize_rec.py) for more details about the parsing of relation conversation.
 
 ## Benchmark Overview
 
