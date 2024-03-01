@@ -4,7 +4,7 @@ This is the official implementation of the following papers:
 
 - [The All-Seeing Project: Towards Panoptic Visual Recognition and Understanding of the Open World](https://arxiv.org/abs/2308.01907)
 
-- [The All-Seeing Project V2: Towards General Relation Comprehension of the Open World]()
+- [The All-Seeing Project V2: Towards General Relation Comprehension of the Open World](https://arxiv.org/abs/2402.19474)
 
 > The name "All-Seeing" is derived from "The All-Seeing Eye", which means having complete knowledge, awareness, or insight into all aspects of existence. The logo is Millennium Puzzle, an artifact from the manga "Yu-Gi-Oh!")
 
@@ -43,7 +43,7 @@ https://github.com/OpenGVLab/all-seeing/assets/47669167/9b5b32d1-863a-4579-b576-
 [***All-Seeing Model (ASM)***](https://huggingface.co/OpenGVLab/ASM-FT): we develop a unified vision-language foundation model (ASM) for open-world panoptic visual recognition and understanding. Aligning with LLMs, our ASM supports versatile image-text retrieval and generation tasks, demonstrating impressive zero-shot capability.
 
 <!-- ### [**The All-Seeing Project V2**](all-seeing-v2/README.md) -->
-### The All-Seeing Project V2 [[Paper](all-seeing-v2/README.md)][[Model](https://huggingface.co/OpenGVLab/ASMv2)][[Dataset](https://huggingface.co/datasets/OpenGVLab/AS-V2)][[Code](all-seeing-v2/README.md)]
+### The All-Seeing Project V2 [[Paper](https://arxiv.org/abs/2402.19474)][[Model](https://huggingface.co/OpenGVLab/ASMv2)][[Dataset](https://huggingface.co/datasets/OpenGVLab/AS-V2)][[Code](all-seeing-v2/README.md)]
 
 ***[All-Seeing Dataset V2 (AS-V2) dataset](https://huggingface.co/datasets/OpenGVLab/AS-V2)***: we propose a novel task, termed Relation Conversation (ReC), which unifies the formulation of text generation, object localization, and relation comprehension. Based on the unified formulation, we construct the AS-V2 dataset, which consists of 127K high-quality relation conversation samples, to unlock the ReC capability for Multi-modal Large Language Models (MLLMs).
 
