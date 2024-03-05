@@ -75,7 +75,7 @@ These images in these abnormal data depict relation triplets that are very rare 
 
 <!-- <img width="800" alt="image" src="assets/general_results.jpg"> -->
 
-- Results on 12 general visual-language benchmarks.
+- Results on 12 general visual-language benchmarks. $^*$ The training images of the datasets are observed during training.
 
     | **Model**                             | **VQAv2** | **GQA**        | **VisWiz**    | **SQA-IMG** | **TextVQA** | **POPE**      | **MME**         | **MMB**       | **$\text{MMB}_{CN}$** | **SEED**      | **LLaVA-Wild** | **MM-Vet**    |
     |---------------------------------------|---------------------|----------------|---------------|--------------------|:--------------------:|:---------------:|:-----------------:|:---------------:|:---------------------:|:---------------:|:----------------------:|:---------------:|
@@ -117,7 +117,7 @@ These images in these abnormal data depict relation triplets that are very rare 
 
 <!-- <img width="800" alt="image" src="assets/rqa_results.jpg"> -->
 
-- Results on Visual Commonsense Reasoning.
+- Results on Visual Commonsense Reasoning. $^*$ The single-task fine-tuning setting.
 
     | **Method**                          | **Q $\rightarrow$ A** | **QA $\rightarrow$ R**               | **Q $\rightarrow$ AR**               |
     |:-----------------------------------|:------------------------:|:------------------:|:------------------:|
@@ -271,6 +271,8 @@ Besides, images in the `coco_flip` are the flipped version of those in the `coco
 # stage2 finetune
 sh scripts_asmv2/stage2-finetune.sh
 ```
+
+**NOTE**: We implement an early stop at the end of the second epoch.
 
 ## Testing
 
