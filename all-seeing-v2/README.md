@@ -237,6 +237,8 @@ After downloading all of them, organize the data as follows in `./playground/dat
 │   └── images
 ├── CLEVR_v1.0
 │   └── images
+├── ScienceQA
+│   ├── train
 ├── ST-VQA
 │   ├── coco-text
 │   ├── ...
