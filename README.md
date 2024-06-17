@@ -36,14 +36,14 @@ https://github.com/OpenGVLab/all-seeing/assets/47669167/9b5b32d1-863a-4579-b576-
 ## Introduction 
 
 <!-- ### [**The All-Seeing Project**](all-seeing/README.md) -->
-### The All-Seeing Project [[Paper](https://arxiv.org/abs/2308.01907)][[Model](https://huggingface.co/OpenGVLab/ASM-FT)][[Dataset](https://huggingface.co/datasets/OpenGVLab/AS-100M)][[Code](all-seeing/README.md)]
+### The All-Seeing Project [[Paper](https://arxiv.org/abs/2308.01907)][[Model](https://huggingface.co/OpenGVLab/ASM-FT)][[Dataset](https://huggingface.co/datasets/OpenGVLab/AS-100M)][[Code](all-seeing/README.md)][[Zhihu](https://zhuanlan.zhihu.com/p/686963813)][[Medium](https://ai.gopubby.com/the-all-seeing-project-towards-panoptic-visual-recognization-and-general-relation-comprehension-f76c2bde3e2c)]
 
 [***All-Seeing 1B (AS-1B) dataset***](https://huggingface.co/datasets/OpenGVLab/AS-100M): we propose a new large-scale dataset (AS-1B) for open-world panoptic visual recognition and understanding, using an economical semi-automatic data engine that combines the power of off-the-shelf vision/language models and human feedback.
 
 [***All-Seeing Model (ASM)***](https://huggingface.co/OpenGVLab/ASM-FT): we develop a unified vision-language foundation model (ASM) for open-world panoptic visual recognition and understanding. Aligning with LLMs, our ASM supports versatile image-text retrieval and generation tasks, demonstrating impressive zero-shot capability.
 
 <!-- ### [**The All-Seeing Project V2**](all-seeing-v2/README.md) -->
-### The All-Seeing Project V2 [[Paper](https://arxiv.org/abs/2402.19474)][[Model](https://huggingface.co/OpenGVLab/ASMv2)][[Dataset](https://huggingface.co/datasets/OpenGVLab/AS-V2)][[Code](all-seeing-v2/README.md)]
+### The All-Seeing Project V2 [[Paper](https://arxiv.org/abs/2402.19474)][[Model](https://huggingface.co/OpenGVLab/ASMv2)][[Dataset](https://huggingface.co/datasets/OpenGVLab/AS-V2)][[Code](all-seeing-v2/README.md)][[Zhihu](https://zhuanlan.zhihu.com/p/686963813)][[Medium](https://ai.gopubby.com/the-all-seeing-project-towards-panoptic-visual-recognization-and-general-relation-comprehension-f76c2bde3e2c)]
 
 ***[All-Seeing Dataset V2 (AS-V2) dataset](https://huggingface.co/datasets/OpenGVLab/AS-V2)***: we propose a novel task, termed Relation Conversation (ReC), which unifies the formulation of text generation, object localization, and relation comprehension. Based on the unified formulation, we construct the AS-V2 dataset, which consists of 127K high-quality relation conversation samples, to unlock the ReC capability for Multi-modal Large Language Models (MLLMs).
 
