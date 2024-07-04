@@ -9,6 +9,7 @@ This is the official implementation of the following papers:
 > The name "All-Seeing" is derived from "The All-Seeing Eye", which means having complete knowledge, awareness, or insight into all aspects of existence. The logo is Millennium Puzzle, an artifact from the manga "Yu-Gi-Oh!")
 
 ## News and Updates 🚀🚀🚀
+- `July 01, 2024`: All-Seeing Project v2 is accepted by ECCV 2024! Note that the [model](https://huggingface.co/OpenGVLab/ASMv2) and [data](https://huggingface.co/datasets/OpenGVLab/AS-V2) have already been released in huggingface.
 - `Feb 28, 2024`: All-Seeing Project v2 is out! Our [**ASMv2**](https://huggingface.co/OpenGVLab/ASMv2) achieves state-of-the-art performance across a variety of image-level and region-level tasks! See [**here**](all-seeing-v2/README.md) for more details.
 - `Feb 21, 2024`: [**ASM**](https://huggingface.co/OpenGVLab/ASM-FT), [**AS-Core**](https://huggingface.co/datasets/OpenGVLab/AS-Core), [**AS-10M**](https://huggingface.co/datasets/OpenGVLab/AS-V2/blob/main/as_pretrain_10m.json), [**AS-100M**](https://huggingface.co/datasets/OpenGVLab/AS-100M) is released!
 - `Jan 16, 2024`: All-Seeing Project is accepted by ICLR 2024!
